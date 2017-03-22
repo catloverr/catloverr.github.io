@@ -1,3 +1,6 @@
+Sitemap: http://media.newgenmadness.com/sitemap.xml
+
+# global
 User-agent: *
-Disallow: /
+Disallow: /xmlrpc.php
 
