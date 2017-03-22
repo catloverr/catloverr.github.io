@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Testdev</title>
-	<atom:link href="http://localhost/wordpress/wp2/feed/" rel="self" type="application/rss+xml" />
+	<title>testdev &#8211; Testdev</title>
+	<atom:link href="http://localhost/wordpress/wp2/author/testdev/feed/" rel="self" type="application/rss+xml" />
 	<link>http://http://media.newgenmadness.com/wp2</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 22 Mar 2017 02:32:20 +0000</lastBuildDate>
