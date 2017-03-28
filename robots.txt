@@ -1,4 +1,4 @@
-Sitemap: http://media.newgenmadness.com/sitemap.xml
+Sitemap: http://localhost:8888/wordpress/sitemap.xml
 
 # global
 User-agent: *
